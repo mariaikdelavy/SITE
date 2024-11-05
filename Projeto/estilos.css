@@ -77,14 +77,14 @@ body, html {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #000; /* Fundo preto */
+    background-color: #000; 
     padding: 20px;
 }
 
 .slide2parte1, .slide2parte2, .slide2parte3 {
-    width: 300px; /* Defina uma largura fixa */
-    height: 400px; /* Defina uma altura fixa */
-    background-color: #333; /* Fundo cinza escuro */
+    width: 300px; 
+    height: 400px; 
+    background-color: #333;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -132,9 +132,9 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #333; /* Fundo preto */
+    background-color: #333; 
     padding: 20px;
-    color: white; /* Texto branco */
+    color: white; 
 }
 
 
@@ -147,7 +147,7 @@ body, html {
     border: 2px solid rgb(0, 4, 255);
     padding: 15px;
     max-width: 250px;
-    background-color: #333; /* Fundo cinza-escuro */
+    background-color: #333; 
     border-radius: 8px;
     color: white;
 }
@@ -166,7 +166,7 @@ body, html {
     margin-top: 1em;
     padding: 10px 15px;
     font-size: 1em;
-    background-color: rgb(0, 4, 255); /* Botão dourado */
+    background-color: rgb(0, 4, 255); 
     color: aliceblue;
     border: none;
     border-radius: 5px;
@@ -174,7 +174,7 @@ body, html {
 }
 
 .add-to-cart:hover {
-    background-color: rgb(0, 4, 255); /* Efeito hover */
+    background-color: rgb(0, 4, 255); 
 }
 
 @media (max-width: 768px) {
